@@ -39,9 +39,10 @@ body{
     color: rgb(237, 238, 241)
 }
 
-.header h1{
-    font-size: 40px;
-}
+/* Increase the font size of the heading */
+.header h1 {
+    font-size: 80px;
+  }
 
 /*Column container*/
 .row{
